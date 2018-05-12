@@ -1,2 +1,2 @@
 # technology
-application of scientific knowledge for practical purpose
+branch of knowledge dealing with engineering or applied sciences
